@@ -1,0 +1,2220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input_filename"
+			],
+			[
+				"__",
+				"__runner_dir"
+			],
+			[
+				"outpu",
+				"output_file"
+			],
+			[
+				"templ",
+				"template_dir"
+			],
+			[
+				"lorem",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"fading",
+				"fading_element"
+			],
+			[
+				"data-wabi-content",
+				"data-wabi-content-fader-id"
+			],
+			[
+				"GetSCre",
+				"GetScreenHeight"
+			],
+			[
+				"generate",
+				"generate_namespace_list"
+			],
+			[
+				"postpr",
+				"postprocess_callback"
+			],
+			[
+				"prepro",
+				"preprocess_callback"
+			],
+			[
+				"loadLevel",
+				"loadLevelResponseCheck"
+			],
+			[
+				"getsavedg",
+				"getSavedGamesResponseCheck"
+			],
+			[
+				"getsaved",
+				"getSavedGamesResponseCheck"
+			],
+			[
+				"GetDev",
+				"GetDevelopmentsResponseCheck"
+			],
+			[
+				"GetScre",
+				"GetScreenWidth"
+			],
+			[
+				"lasts",
+				"lastSquaresY"
+			],
+			[
+				"lastsq",
+				"lastSquaresX"
+			],
+			[
+				"firsts",
+				"firstSquaresY"
+			],
+			[
+				"RenderMapSq",
+				"RenderMapSquareHighlight"
+			],
+			[
+				"loginuser",
+				"loginUserResponseCheck"
+			],
+			[
+				"OnGame",
+				"OnGameServerResponse"
+			],
+			[
+				"battlestate",
+				"battleState"
+			],
+			[
+				"anima",
+				"animatedTexts"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"OnGameSer",
+				"OnGameServerResponseError"
+			],
+			[
+				"battlest",
+				"battleState"
+			],
+			[
+				"battlesta",
+				"BattleState"
+			],
+			[
+				"stateshowing",
+				"stateShowingActionResults"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"stateawait",
+				"stateAwaitingPlayerInput"
+			],
+			[
+				"stateawaiti",
+				"stateAwaitingPlayerActionSelection"
+			],
+			[
+				"ITw",
+				"ITweenCallback"
+			],
+			[
+				"avali",
+				"availableActions"
+			],
+			[
+				"battlefield",
+				"battlefieldalgorithms"
+			],
+			[
+				"serializ",
+				"serializedStaticModifiers"
+			],
+			[
+				"seriaz",
+				"serializedStaticModifiers"
+			],
+			[
+				"GameSer",
+				"GameServerResponse"
+			],
+			[
+				"GetDeve",
+				"GetDevelopmentBoard"
+			],
+			[
+				"develo",
+				"developmentsLayout"
+			],
+			[
+				"ResearchDe",
+				"ResearchDevelopmentCallback"
+			],
+			[
+				"getDe",
+				"getDevelopmentsCallback"
+			],
+			[
+				"GetDevelo",
+				"GetDevelopmentsCallback"
+			],
+			[
+				"getDevol",
+				"GetDevelopmentsCallback"
+			],
+			[
+				"IOn",
+				"IOnGameServerResponse"
+			],
+			[
+				"json",
+				"jsonParser"
+			],
+			[
+				"default_un",
+				"default_units_table"
+			],
+			[
+				"response",
+				"responseStatus"
+			],
+			[
+				"facebo",
+				"facebookCallback"
+			],
+			[
+				"Event",
+				"EventListener"
+			],
+			[
+				"player",
+				"playerMoney"
+			],
+			[
+				"PlacePiece",
+				"PlacePieceOnBoard"
+			],
+			[
+				"Iu",
+				"IUnitChessboardPiece"
+			],
+			[
+				"s",
+				"shl	Shl"
+			],
+			[
+				"b",
+				"Bomba"
+			],
+			[
+				"Apply",
+				"ApplyBoardEffectsToUnit"
+			],
+			[
+				"selected",
+				"selectedUnit"
+			],
+			[
+				"IDeve",
+				"IDevelopment"
+			],
+			[
+				"unitboard",
+				"unitBoardImageWithPieceAssociation"
+			],
+			[
+				"board",
+				"unitBoardImages"
+			],
+			[
+				"IUnitChe",
+				"IUnitChessboardPiece"
+			],
+			[
+				"IDev",
+				"IDevelopment"
+			],
+			[
+				"units",
+				"playerUnits"
+			],
+			[
+				"Gets",
+				"GetScreenWidth"
+			],
+			[
+				"translate",
+				"translate	Translate"
+			],
+			[
+				"SEL",
+				"Self"
+			],
+			[
+				"rem",
+				"rem	#Rem...#End"
+			],
+			[
+				"scrolldelta",
+				"scrollDeltaX"
+			],
+			[
+				"scrollDelt",
+				"scrollDeltaY"
+			],
+			[
+				"EL",
+				"ELEMENT_SCROLLAREA"
+			],
+			[
+				"if",
+				"If"
+			],
+			[
+				"igui",
+				"IGUIScrollArea"
+			],
+			[
+				"previous",
+				"previousMouseX"
+			],
+			[
+				"clas",
+				"Class"
+			],
+			[
+				"te",
+				"TemplateGenerator"
+			],
+			[
+				"element_",
+				"element_properties_window"
+			],
+			[
+				"refresh",
+				"refresh_document"
+			],
+			[
+				"fire",
+				"fire_event"
+			],
+			[
+				"window",
+				"element_properties_window"
+			],
+			[
+				"display",
+				"display_type"
+			],
+			[
+				"setting_",
+				"setting_object"
+			],
+			[
+				"categor",
+				"category"
+			],
+			[
+				"block",
+				"block_elements"
+			],
+			[
+				"setting",
+				"setting_name"
+			],
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"load",
+				"load_document_response"
+			],
+			[
+				"insert",
+				"insert_macro"
+			],
+			[
+				"document",
+				"documentViewSelectionView"
+			],
+			[
+				"elements_",
+				"element_generators_container"
+			],
+			[
+				"wabi-websitebuilder-loading",
+				"wabi-websitebuilder-loading-bar-container"
+			],
+			[
+				"update",
+				"update_element_view"
+			],
+			[
+				"wabi-websitebuilder-element-pro",
+				"wabi-websitebuilder-window-element-properties"
+			],
+			[
+				"load_docu",
+				"load_document"
+			],
+			[
+				"string",
+				"string_response"
+			],
+			[
+				"new_do",
+				"new_document_button"
+			],
+			[
+				"signa",
+				"signature_ok"
+			],
+			[
+				"send",
+				"send_request"
+			],
+			[
+				"w",
+				"windows"
+			],
+			[
+				"element_le",
+				"element_level"
+			],
+			[
+				"background",
+				"backgroundLayerPanel"
+			],
+			[
+				"wabi-websitebuilder-background-",
+				"wabi-websitebuilder-background-image-uploaded"
+			],
+			[
+				"back",
+				"background_view_panel"
+			],
+			[
+				"respon",
+				"load_document_response"
+			],
+			[
+				"load_document",
+				"load_document_response"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"placeh",
+				"placeholder_id"
+			],
+			[
+				"placeholder",
+				"placeholder_elements_container"
+			],
+			[
+				"placeholde",
+				"placeholder_elements_container"
+			],
+			[
+				"placeho",
+				"placeholder_elements_container"
+			],
+			[
+				"deseria",
+				"deserialize_document"
+			],
+			[
+				"serialize_",
+				"serialize_element_level"
+			],
+			[
+				"element",
+				"element_properties"
+			],
+			[
+				"current",
+				"current_content"
+			],
+			[
+				"data-wabi-website",
+				"data-wabi-websitebuilder-content-type"
+			],
+			[
+				"total",
+				"total_macros"
+			],
+			[
+				"get_app_",
+				"get_app_name"
+			],
+			[
+				"get_ap",
+				"get_app_name"
+			],
+			[
+				"auth",
+				"authentication"
+			],
+			[
+				"get_app",
+				"get_page_parameter"
+			],
+			[
+				"droppable",
+				"droppable_columns"
+			],
+			[
+				"fi",
+				"file_size"
+			],
+			[
+				"get_public",
+				"get_public_image_dir"
+			],
+			[
+				"image_to_",
+				"image_to_add_id"
+			],
+			[
+				"get_photog",
+				"get_photogallery_contents"
+			],
+			[
+				"uploaded_",
+				"uploaded_filenames"
+			],
+			[
+				"last_added",
+				"last_added_image_id"
+			],
+			[
+				"last_",
+				"last_added_image_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/monkey.sublime-master/Monkey - html5 (Oscar Wings).sublime-build",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"syntax perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"syntax monke",
+				"Set Syntax: Monkey"
+			],
+			[
+				"syntax monkey",
+				"Set Syntax: Monkey"
+			],
+			[
+				"syntax plai next",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"plain text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntax javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syntax javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax jscri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"git",
+			"?",
+			"h",
+			"help",
+			"open me",
+			"open",
+			"build",
+			"?",
+			"help",
+			"python",
+			"for n in view.settings():",
+			"for n in view.settings()",
+			"view.settings().each",
+			"view.settings().get('font_face')",
+			"view.settings()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/ErrorHandler/project/ErrorHandler.sublime-project",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/ErrorHandler/project/ErrorHandler.pm.sublime-project",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/makedocs/makedocs.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/systems/monkey/build.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/concat.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/count_lines.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/git.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/project/Perl Task Runner.sublime-project",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/pipe/actions/sort.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/pipe/commands/sort.pl",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/makedocs/templates/default/index.html",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/create_dir.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/remove_dir.pl",
+		"/D/Wabisabi/Applications/PostaTu/2014/desktop/build.log",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/dircopy.pl",
+		"/C/Users/Jose/Desktop/pluto/2014/run.json",
+		"/C/Users/Jose/Desktop/moron/2014/run.json",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/File/Copy/Recursive.pm",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/minify-js.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/template_processor/template_processor.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/htmltopdf.pl",
+		"/C/Users/Jose/Desktop/.htaccess",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/Task Runner/modules/template_processor/functions.pl",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/monkey.sublime-master/Monkey - html5 (Oscar Wings).sublime-build",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/build.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/template_processor/template_processor.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/htmltopdf.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/minify-js.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/minify_css/minify_css.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/template_processor/TemplateProcessor.pm",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/template_processor/functions.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/dircopy.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/remove_dir.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/makedocs/makedocs.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/project/Perl Build System.sublime-project",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/File/Copy/Recursive.pm",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/count_lines.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/minify-css/CSS/Compressor.pm",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/template_processor.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/modules/PerlCMS/index.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/makedocs/templates/default/index.html",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Website/2014/build.json",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/tpl/prodotti/singolo.tpl",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/tpl/pagine/background-image.tpl",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/tpl/email/email_notifica_cliente.tpl",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/tpl/prodotti/no_more_product.tpl",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/tpl/product.tpl",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/css/PIE.htc",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/css/wirefy/base-ie.css",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/css/wirefy/base.css",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/css/wirefy/font-awesome-ie7.min.css",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/css/wirefy/wirefy.css",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/js/scripts.js",
+		"/D/Wabisabi/Siti/Unica/2014/desktop/project/Unica 2014 - desktop.sublime-project",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/build/systems/monkey/build.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/animatedtext.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/App.pm",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/User/Jose Bright.tmTheme",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/monkey.sublime-master/Monkey.tmLanguage",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/gui/guilabel.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/tests.monkey",
+		"/C/Users/Jose/Dropbox/Apps/Sublime 3/Data/Packages/User/itto.tmTheme",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/templates/Default/macros/background_gallery/background_gallery.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/angelfont/angelfont_example.data/pagedfont.fnt",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/player.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Appender/TestArrayBuffer.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/JavaMap/NTEventLogAppender.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/battlestateawaitingattackpointselection.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/playerai.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Layout/PatternLayout.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/main.build/html5/app/server/functions.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/unitaction.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/tacticalai.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Appender/TestFileCreeper.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/battlestateawaitingplayeractionselection.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/stateworkshop.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/templates/Default/scripts/scripts.js",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Appender/ScreenColoredLevels.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/main.build/html5/data/fonts/Arial/Arial.fnt",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/engine/core/core.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/apps/gameserver/actions/save_units_boards.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/macros/HTML/background_gallery/background_gallery.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl6/helloworld/Hello.p6",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/engine/core/utilities.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/unitclassification.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Util/TimeTracker.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Layout/PatternLayout/Multiline.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Util.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/unit.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/templates/Default/macros/cms/cms.html",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/main.build/html5/CONFIG.MONKEY",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/gui/gui.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/gui/guibutton.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Database.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/macros/app_name/app_name.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/JavaMap/SyslogAppender.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Layout/SimpleLayout.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Catalyst.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Appender/Synchronized.pm",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl6/helloworld/included.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl6/helloworld/helloworld.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/docs/design document/stylesheets/default.css",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/development.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/battlefieldalgorithms.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/build.ini",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/apps/gameserver/actions/get_developments.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/macros/list/list.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/apps/gameserver/actions/save_game.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/battleaction.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Level.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/documentation/modules/game/gameserver/getdevelopmentsresponsecheck.monkey.html",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/gameserver/getdevelopmentsresponsecheck.monkey.html",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Appender/DBI.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/gameserver/loadgameresponsecheck.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/apps/gameserver/actions/save_player_fame.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/perl-version.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/tools/tools.pl",
+		"/C/Users/Jose/Dropbox/Jose/workshop/perl/tools/lcase_all_files.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/data/modules/Log/Log4perl/Config/BaseConfigurator.pm",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/tests/custom map/custom map.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/macros/HTML/column/column.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/apps/gameserver/actions/load_game.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/src/server/macros/combo_box/combo_box.pl",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/gameserver/loadlevelresponsecheck.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/modules/game/gameserver/getsavedgamesresponsecheck.monkey"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\templates",
+			"<project>",
+			"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\records",
+			"<project>",
+			"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\PureBasic projects",
+			"C:\\Users\\Jose\\Dropbox\\Ohboid\\Ohboid website\\2013\\wp\\wp-content\\themes\\twentytwelve",
+			"<project>",
+			"[project files]",
+			"[project]",
+			"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\PureBasic projects\\Oscar Engine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"read_file",
+			"\\",
+			"read_task_file",
+			"json_decoder",
+			"b read_tast",
+			"json_decoder",
+			"run_tasks",
+			"json_decoder",
+			"json_dec",
+			"output",
+			"input",
+			"$output",
+			"b run_task",
+			"command",
+			"commands",
+			"b process_te",
+			"run_tasks",
+			"ctrl+r\"",
+			"tab",
+			"say",
+			"read_task_file",
+			"say",
+			"system",
+			"'done.'",
+			"say\\s('.*')",
+			"say\\s('.*');",
+			"say\\s(\".*\");",
+			"local_settings",
+			"__setti",
+			"runner_dir =",
+			"__",
+			"$runner",
+			"builddir",
+			"__directory",
+			"json",
+			"$dir",
+			"\\$dir",
+			"dir",
+			"system_dir",
+			"$json",
+			"25",
+			"templates_",
+			"files",
+			"get_fil",
+			"read_te",
+			"start_dir",
+			"$dir",
+			".subtitle",
+			"debug_",
+			"wabi_content_fader",
+			".product",
+			"countdown",
+			"simple_carou",
+			"full-size-link",
+			".title",
+			".photogallery",
+			"#main",
+			"display",
+			"data-wabi-content-fader-previous-display",
+			"fader",
+			"wabi_content_fa",
+			"#main",
+			"top-menu",
+			".container",
+			"fader",
+			"blue-tr",
+			"footer",
+			".socials",
+			"top-",
+			"top-menu",
+			"top-bar",
+			",",
+			"catch",
+			"try",
+			"5050a0",
+			"monkey",
+			"getabsolu",
+			"d render",
+			"cached",
+			"d render",
+			"render",
+			"settext",
+			"render",
+			"geometry",
+			"calculatege",
+			"d insertch",
+			"insertchi",
+			"print [^$]",
+			"gui",
+			"init:",
+			"init(",
+			"d render",
+			"Return",
+			"Next",
+			"End",
+			"Select",
+			"Case",
+			"Int",
+			"Hex",
+			"hextoint",
+			"loadimage",
+			"split ",
+			"imports",
+			"print $docs",
+			"modules",
+			"72",
+			"import modules",
+			"welcome-caption",
+			"unitdatabase",
+			"serverresponse",
+			"render",
+			"renderbattle",
+			"getdevelopments",
+			"display",
+			"d update",
+			"d render",
+			"render",
+			"d renderbattl",
+			"visibles",
+			"getdata",
+			"255]",
+			"[255,",
+			"render",
+			"getbattlefieldo",
+			"d render",
+			"createanima",
+			"getx",
+			"square.GetX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\",
+			"/",
+			"say($1)",
+			"say($1);",
+			"$task_dir",
+			"runner_dir",
+			"return",
+			"next",
+			"end",
+			"select",
+			"case",
+			"int",
+			"hex",
+			"#end",
+			"#if",
+			"GUI",
+			"GUI.CreateElement(",
+			"tweenPool",
+			"MapSquare.",
+			"#ffffff",
+			"Number $1\\n",
+			"#ffffff",
+			"",
+			"ui",
+			"ui.",
+			"IPlayer",
+			"-piece",
+			"method New",
+			"scissorY1",
+			"scissorX1",
+			"Event.CreateEvent",
+			"Event.$2",
+			"Event.MOUSEUP",
+			"Event.MOUSEDOWN",
+			"Event.MOUSEMOVE",
+			"Event.CLICK",
+			"GUI.HLIST",
+			"GUI.SCROLLAREA",
+			"GUI.HLIST\nGUI.SCROLLAREA",
+			"GUI.HLIST\nGUI.HLIST",
+			"GUI.LABEL",
+			"GUI.BUTTON",
+			"end",
+			"else if",
+			"end",
+			"else if",
+			"end",
+			"else if",
+			"$1:string =",
+			"$1:int ",
+			"$1:int\\s",
+			"$1:int",
+			"final",
+			"abstract",
+			"until",
+			"xor",
+			"endwhile",
+			"endselect",
+			"case",
+			"select",
+			"extern",
+			"catch",
+			"try",
+			"new",
+			"step",
+			"not",
+			"and",
+			"or",
+			"void",
+			"interface",
+			"to",
+			"throw",
+			"bool",
+			"string",
+			"float",
+			"int",
+			"const",
+			"global",
+			"strict",
+			"forever",
+			"repeat",
+			"wend",
+			"while",
+			"null",
+			"false",
+			"true",
+			"self",
+			"super",
+			"default",
+			"elseif",
+			"else",
+			"new",
+			"function",
+			"local",
+			"public",
+			"private",
+			"exit",
+			"return",
+			"implements",
+			"extends",
+			"then",
+			"continue",
+			"next",
+			"eachin",
+			"for ",
+			"method ",
+			"class",
+			"if",
+			"endif",
+			"end",
+			"field ",
+			"import ",
+			"import",
+			"new",
+			"not",
+			"or",
+			"and",
+			"local",
+			"self",
+			"super",
+			"true",
+			"false",
+			"exit",
+			"field",
+			"end",
+			"return",
+			"continue",
+			"then"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 687.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"project": "ErrorHandler.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"taskru",
+				"TaskRunner.pm"
+			],
+			[
+				"minify_css.p",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"minify_j",
+				"modules\\minify_js.pl"
+			],
+			[
+				"makedocs",
+				"makedocs\\makedocs.pl"
+			],
+			[
+				"monkey/bu",
+				"systems\\monkey\\build.pl"
+			],
+			[
+				"task_ru",
+				"task_runner.pl"
+			],
+			[
+				"taskrunn",
+				"TaskRunner.pm"
+			],
+			[
+				"template",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"webapp_ge",
+				"modules\\webapp_generator\\webapp_generator.pl"
+			],
+			[
+				"functios",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"template_p",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"functio",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"templatepr",
+				"modules\\template_processor\\TemplateProcessor.pm"
+			],
+			[
+				"template_",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"rename_",
+				"modules\\rename_file.pl"
+			],
+			[
+				"copy_f",
+				"modules\\copy_file.pl"
+			],
+			[
+				"task_",
+				"task_runner.pl"
+			],
+			[
+				"_js",
+				"modules\\minify_js.pl"
+			],
+			[
+				"minifycs",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"minify_js",
+				"modules\\minify_js.pl"
+			],
+			[
+				"weba",
+				"modules\\webapp_generator\\webapp_generator.pl"
+			],
+			[
+				"webapp",
+				"modules\\webapp_generator\\webapp_generator.pl"
+			],
+			[
+				"pipe",
+				"modules\\pipe\\pipe.pl"
+			],
+			[
+				"minifyjs",
+				"modules\\minify_js.pl"
+			],
+			[
+				"minifycss",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"pip.",
+				"modules\\pipe\\pipe.pl"
+			],
+			[
+				"pipe.",
+				"modules\\pipe\\pipe.pl"
+			],
+			[
+				"minjs",
+				"modules\\minify_js.pl"
+			],
+			[
+				"functions",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"sort",
+				"modules\\pipe\\actions\\sort.pl"
+			],
+			[
+				"functions.pl",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"templatepro",
+				"modules\\template_processor\\TemplateProcessor.pm"
+			],
+			[
+				"templatep",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"sort.",
+				"modules\\pipe\\actions\\sort.pl"
+			],
+			[
+				"git.pl",
+				"modules\\git.pl"
+			],
+			[
+				"git",
+				"modules\\git.pl"
+			],
+			[
+				"taskr",
+				"TaskRunner.pm"
+			],
+			[
+				"taskpm",
+				"TaskRunner.pm"
+			],
+			[
+				"task_r",
+				"task_runner.pl"
+			],
+			[
+				"create",
+				"modules\\create_dir.pl"
+			],
+			[
+				"template_pro",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"remove_d",
+				"modules\\remove_dir.pl"
+			],
+			[
+				"htmlto",
+				"modules\\htmltopdf.pl"
+			],
+			[
+				"minify_",
+				"modules\\minify_js.pl"
+			],
+			[
+				"dirco",
+				"modules\\dircopy.pl"
+			],
+			[
+				"temal",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"minify_c",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"minif",
+				"modules\\minify_js.pl"
+			],
+			[
+				"dircop",
+				"modules\\dircopy.pl"
+			],
+			[
+				"taskrupm",
+				"TaskRunner.pm"
+			],
+			[
+				"functions.",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"templapm",
+				"modules\\template_processor\\TemplateProcessor.pm"
+			],
+			[
+				"template.",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"minify_cs",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"tema_proc",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"created",
+				"modules\\create_dir.pl"
+			],
+			[
+				"_css",
+				"modules\\minify_css\\minify_css.pl"
+			],
+			[
+				"create_d",
+				"modules\\create_dir.pl"
+			],
+			[
+				"dircopy",
+				"modules\\dircopy.pl"
+			],
+			[
+				"create_",
+				"modules\\create_dir.pl"
+			],
+			[
+				"minify",
+				"modules\\minify_js.pl"
+			],
+			[
+				"minify-js",
+				"modules\\minify-js.pl"
+			],
+			[
+				"remove",
+				"modules\\remove_dir.pl"
+			],
+			[
+				"html",
+				"modules\\htmltopdf.pl"
+			],
+			[
+				"run",
+				"modules\\new_project\\workspaces\\wabi_website\\run.json"
+			],
+			[
+				"new_pr",
+				"modules\\new_project\\new_project.pl"
+			],
+			[
+				"funct",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"templatepm",
+				"modules\\template_processor\\TemplateProcessor.pm"
+			],
+			[
+				"crete",
+				"modules\\create_dir.pl"
+			],
+			[
+				"run.",
+				"modules\\new_project\\workspaces\\wabi_website\\run.json"
+			],
+			[
+				"new_pro",
+				"modules\\new_project\\new_project.pl"
+			],
+			[
+				"taskrunner",
+				"TaskRunner.pm"
+			],
+			[
+				"run.js",
+				"modules\\new_project\\workspaces\\wabi_website\\run.json"
+			],
+			[
+				"new_",
+				"modules\\new_project\\new_project.pl"
+			],
+			[
+				"new_p",
+				"modules\\new_project\\new_project.pl"
+			],
+			[
+				"remove_",
+				"modules\\remove_dir.pl"
+			],
+			[
+				"process",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"htmld",
+				"modules\\htmltopdf.pl"
+			],
+			[
+				"templat",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"build.",
+				"build.pl"
+			],
+			[
+				"template_pr",
+				"modules\\template_processor\\template_processor.pl"
+			],
+			[
+				"dircoy",
+				"modules\\dircopy.pl"
+			],
+			[
+				"tem",
+				"modules\\template_processor\\functions.pl"
+			],
+			[
+				"build.pl",
+				"build.pl"
+			],
+			[
+				"default",
+				"css\\default.css"
+			],
+			[
+				"scripts",
+				"js\\scripts.js"
+			],
+			[
+				"product",
+				"tpl\\product.tpl"
+			],
+			[
+				"styles",
+				"tpl\\styles.tpl"
+			],
+			[
+				"makedo",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\build\\makedocs\\makedocs.pl"
+			],
+			[
+				"gui.",
+				"modules\\gui\\gui.monkey"
+			],
+			[
+				"guieleme",
+				"modules\\gui\\guielement.monkey"
+			],
+			[
+				"game",
+				"modules\\game\\game.monkey"
+			],
+			[
+				"char",
+				"modules\\angelfont\\char.monkey"
+			],
+			[
+				"angelfont",
+				"modules\\angelfont\\angelfont.monkey"
+			],
+			[
+				"guiel",
+				"modules\\gui\\guielement.monkey"
+			],
+			[
+				"label",
+				"modules\\gui\\guilabel.monkey"
+			],
+			[
+				"guibut",
+				"modules\\gui\\guibutton.monkey"
+			],
+			[
+				"guielement",
+				"modules\\gui\\guielement.monkey"
+			],
+			[
+				"awaitingplayeractionse",
+				"modules\\game\\battlestateawaitingplayeractionselection.monkey"
+			],
+			[
+				"guila",
+				"modules\\gui\\guilabel.monkey"
+			],
+			[
+				"guiele",
+				"modules\\gui\\guielement.monkey"
+			],
+			[
+				"playeractionse",
+				"modules\\game\\battlestateawaitingplayeractionselection.monkey"
+			],
+			[
+				"awaitingplayerin",
+				"modules\\game\\battlestateawaitingplayerinput.monkey"
+			],
+			[
+				"battlestate.",
+				"modules\\game\\battlestate.monkey"
+			],
+			[
+				"stateba",
+				"modules\\game\\statebattle.monkey"
+			],
+			[
+				"actionselectio",
+				"modules\\game\\battlestateawaitingunitactionselection.monkey"
+			],
+			[
+				"statebattle",
+				"modules\\game\\statebattle.monkey"
+			],
+			[
+				"statewaitingplayerin",
+				"modules\\game\\battlestateawaitingplayerinput.monkey"
+			],
+			[
+				"guilabel",
+				"modules\\gui\\guilabel.monkey"
+			],
+			[
+				"scrolla",
+				"modules\\gui\\guiscrollarea.monkey"
+			],
+			[
+				"guielemnt",
+				"modules\\gui\\guielement.monkey"
+			],
+			[
+				"selectga",
+				"modules\\game\\stateselectgame.monkey"
+			],
+			[
+				"bare",
+				"modules\\game\\statebattlerenderer.monkey"
+			],
+			[
+				"statemain",
+				"modules\\game\\statemainmenu.monkey"
+			],
+			[
+				"gamestate",
+				"modules\\game\\gamestate.monkey"
+			],
+			[
+				"game.",
+				"modules\\game\\game.monkey"
+			],
+			[
+				"sbare",
+				"modules\\game\\statebattlerenderer.monkey"
+			],
+			[
+				"core.",
+				"modules\\engine\\core\\core.monkey"
+			],
+			[
+				"app",
+				"src\\server\\data\\modules\\App.pm"
+			],
+			[
+				"settings",
+				"modules\\engine\\core\\settings.monkey"
+			],
+			[
+				"dataa",
+				"modules\\engine\\core\\datamanager.monkey"
+			],
+			[
+				"pool",
+				"modules\\engine\\objectpool.monkey"
+			],
+			[
+				"battlefieldal",
+				"modules\\game\\battlefieldalgorithms.monkey"
+			],
+			[
+				"build",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\build\\systems\\monkey\\build.pl"
+			],
+			[
+				"lins",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\build\\count_lines.pl"
+			],
+			[
+				"battlalgo",
+				"modules\\game\\battlefieldalgorithms.monkey"
+			],
+			[
+				"load_game",
+				"src\\server\\apps\\gameserver\\actions\\load_game.pl"
+			],
+			[
+				"getdevelo",
+				"src\\server\\apps\\gameserver\\actions\\get_developments.pl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"jose fa",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\websites\\Jose Faeti\\2013\\sublime\\Jose Faeti 2013.sublime-project"
+			],
+			[
+				"postatu",
+				"D:\\Wabisabi\\Applications\\PostaTu\\2014\\desktop\\project\\PostaTu 2014 - desktop.sublime-project"
+			],
+			[
+				"unica",
+				"D:\\Wabisabi\\Siti\\Unica\\2014\\desktop\\project\\Unica 2014 - desktop.sublime-project"
+			],
+			[
+				"",
+				"D:\\Wabisabi\\Applications\\PostaTu\\2014\\desktop\\project\\PostaTu 2014 - desktop.sublime-project"
+			],
+			[
+				"jose",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\websites\\Jose Faeti\\2013\\sublime\\Jose Faeti 2013.sublime-project"
+			],
+			[
+				"mech ta",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Mech Tactics\\project\\Mech Tactics project.sublime-project"
+			],
+			[
+				"hotel all inclusive ab",
+				"D:\\Wabisabi\\Landing pages\\Hotel All Inclusive Abruzzo\\desktop\\project\\Hotel All Inclusive Abruzzo (Landing page) - desktop.sublime-project"
+			],
+			[
+				"invoice",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\Invoice Generator\\project\\Invoice Generator.sublime-project"
+			],
+			[
+				"hotel azzu",
+				"D:\\Wabisabi\\Siti\\Hotel Azzurra\\desktop\\2014\\sublime\\Hotel Azzurra 2014 - desktop.sublime-project"
+			],
+			[
+				"oscar wi",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Website\\2014\\project\\Oscar Wings 2014.sublime-project"
+			],
+			[
+				"oscar",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Website\\2014\\project\\Oscar Wings 2014.sublime-project"
+			],
+			[
+				"oscarw",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Website\\2014\\project\\Oscar Wings 2014.sublime-project"
+			],
+			[
+				"landing",
+				"D:\\Wabisabi\\Landing pages\\2014-05-29\\desktop\\project\\Landing Page  2014-05-29 - desktop.sublime-project"
+			],
+			[
+				"wabi content",
+				"D:\\Wabisabi\\Modules\\Wabi Content Fader\\sublime\\Wabi Content Fader.sublime-project"
+			],
+			[
+				"countdown",
+				"D:\\Wabisabi\\Modules\\Wabi Countdown Timer\\sublime\\Wabi Countdown Timer.sublime-project"
+			],
+			[
+				"capannino",
+				"D:\\Wabisabi\\Siti\\Il Capannino\\2013\\desktop\\sublime\\Il Capannino 2013 - desktop.sublime-project"
+			],
+			[
+				"wabi content fa",
+				"D:\\Wabisabi\\Modules\\Wabi Content Fader\\sublime\\Wabi Content Fader.sublime-project"
+			],
+			[
+				"fabio casto",
+				"D:\\Wabisabi\\Siti\\Fabio Casto\\2014\\desktop\\project\\Fabio Casto 2014 - desktop.sublime-project"
+			],
+			[
+				"edi pong",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Progetto Edi\\pong\\src\\controller\\project\\Pong (Progetto Edi) - Controller.sublime-project"
+			],
+			[
+				"hotel hi",
+				"D:\\Wabisabi\\Siti\\Hotel Hidalgo\\2013\\desktop\\sublime\\Hotel Hidalgo 2013 desktop.sublime-project"
+			],
+			[
+				"social",
+				"D:\\Wabisabi\\Modules\\CSS\\Wabi Social\\sublime\\Wabi Social.sublime-project"
+			],
+			[
+				"land",
+				"D:\\Wabisabi\\Siti\\Blu Lido Company\\Landing Pages\\Landing page doppio hotel\\sublime\\Landing page doppio hotel.sublime-project"
+			],
+			[
+				"abruzzo",
+				"D:\\Wabisabi\\Landing pages\\Hotel All Inclusive Abruzzo\\mobile\\project\\Hotel All Inclusive Abruzzo 2014 - mobile.sublime-workspace"
+			],
+			[
+				"allincl",
+				"D:\\Wabisabi\\Landing pages\\Hotel All Inclusive Abruzzo\\mobile\\project\\Hotel All Inclusive Abruzzo 2014 - mobile.sublime-workspace"
+			],
+			[
+				"landing ab",
+				"D:\\Wabisabi\\Landing pages\\Hotel All Inclusive Abruzzo\\desktop\\project\\Hotel All Inclusive Abruzzo (Landing page) - desktop.sublime-project"
+			],
+			[
+				"isi so",
+				"D:\\Wabisabi\\Siti\\ISI\\Social\\2013\\sublime\\ISI Social 2013 - desktop.sublime-project"
+			],
+			[
+				"social isi",
+				"D:\\Wabisabi\\Siti\\ISI\\Social\\2013\\sublime\\ISI Social 2013 - desktop.sublime-project"
+			],
+			[
+				"sporting",
+				"D:\\Wabisabi\\Siti\\Hotel Sporting\\2014\\desktop\\project\\Hotel Sporting 2014 - desktop.sublime-project"
+			],
+			[
+				"angelini",
+				"D:\\Wabisabi\\Siti\\Hotel Angelini\\2014\\desktop\\project\\Hotel Angelini 2014 - desktop.sublime-project"
+			],
+			[
+				"angeliln",
+				"D:\\Wabisabi\\Siti\\Hotel Angelini\\2014\\desktop\\project\\Hotel Angelini 2014 - desktop.sublime-project"
+			],
+			[
+				"pong",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Progetto Edi\\pong\\src\\controller\\project\\Pong (Progetto Edi) - Controller.sublime-project"
+			],
+			[
+				"edi",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Progetto Edi\\project\\Progetto Edi.sublime-workspace"
+			],
+			[
+				"mech tact",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Mech Tactics\\project\\Mech Tactics project.sublime-project"
+			],
+			[
+				"tecno",
+				"D:\\Wabisabi\\Siti\\Tecnoinfissi\\2014\\desktop\\project\\Tecnoinfissi 2014 - desktop.sublime-project"
+			],
+			[
+				"temalpte gene",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"scientia",
+				"D:\\Wabisabi\\Siti\\Scientia\\2014\\desktop\\project\\Scentia 2014 - desktop.sublime-project"
+			],
+			[
+				"scentia",
+				"D:\\Wabisabi\\Siti\\Scientia\\2014\\desktop\\project\\Scentia 2014 - desktop.sublime-project"
+			],
+			[
+				"mech tactics",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Mech Tactics\\project\\Mech Tactics project.sublime-project"
+			],
+			[
+				"content fa",
+				"D:\\Wabisabi\\Modules\\Wabi Content Fader\\sublime\\Wabi Content Fader.sublime-project"
+			],
+			[
+				"tecnoin",
+				"D:\\Wabisabi\\Siti\\Tecnoinfissi\\2014\\desktop\\project\\Tecnoinfissi 2014 - desktop.sublime-project"
+			],
+			[
+				"tenco",
+				"D:\\Wabisabi\\Siti\\Tecnoinfissi\\2014\\desktop\\project\\Tecnoinfissi 2014 - desktop.sublime-project"
+			],
+			[
+				"tecnoinfissi",
+				"D:\\Wabisabi\\Siti\\Tecnoinfissi\\2014\\desktop\\project\\Tecnoinfissi 2014 - desktop.sublime-project"
+			],
+			[
+				"generat",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"generator",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"template ",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"template ge",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"postat",
+				"D:\\Wabisabi\\Applications\\PostaTu\\2014\\desktop\\project\\PostaTu 2014 - desktop.sublime-project"
+			],
+			[
+				"posta tu",
+				"D:\\Wabisabi\\Applications\\PostaTu\\2014\\desktop\\project\\PostaTu 2014 - desktop.sublime-project"
+			],
+			[
+				"template",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"villa boschetti",
+				"D:\\Wabisabi\\Siti\\Hotel Villa Boschetti\\2013\\desktop\\sublime\\Hotel Villa Boschetti 2013.sublime-project"
+			],
+			[
+				"tem",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"matteo babbi",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\websites\\Matteo Babbi\\2013\\sublime\\matteo_babbi.sublime-project"
+			],
+			[
+				"tecnoinf",
+				"D:\\Wabisabi\\Siti\\Tecnoinfissi\\2014\\desktop\\project\\Tecnoinfissi 2014 - desktop.sublime-project"
+			],
+			[
+				"perl cms",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"lastminute",
+				"D:\\Wabisabi\\Applications\\Wabi Last Minute\\sublime\\Wabi Lastminute.sublime-project"
+			],
+			[
+				"gigiol",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\mobile\\sublime\\Hotel Gigliola 2013 - mobile.sublime-project"
+			],
+			[
+				"gigliola mobi",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\mobile\\sublime\\Hotel Gigliola 2013 - mobile.sublime-project"
+			],
+			[
+				"perl",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"perl c",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"perlcms",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"fabio",
+				"D:\\Wabisabi\\Siti\\Hotel Fabio\\2014\\desktop\\project\\Hotel Fabio 2014 - desktop.sublime-project"
+			],
+			[
+				"hotel fabio",
+				"D:\\Wabisabi\\Siti\\Hotel Fabio\\2014\\desktop\\project\\Hotel Fabio 2014 - desktop.sublime-project"
+			],
+			[
+				"temp",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"wabi cms",
+				"D:\\Wabisabi\\Applications\\CMS\\sublime\\Wabi CMS.sublime-project"
+			],
+			[
+				"mechta",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Mech Tactics\\project\\Mech Tactics project.sublime-project"
+			],
+			[
+				"wabi tem",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"serenissima",
+				"D:\\Wabisabi\\Siti\\Hotel Village Serenissima\\2012\\sublime\\Hotel Village Serenissima.sublime-project"
+			],
+			[
+				"isi",
+				"D:\\Wabisabi\\Siti\\ISI\\2012\\sublime\\ISI 2012.sublime-project"
+			],
+			[
+				"club",
+				"D:\\Wabisabi\\Siti\\Club Family Hotels\\Company site\\desktop\\2013\\sublime\\Club Family Hotels - Company site - 2013 - desktop.sublime-project"
+			],
+			[
+				"wabi cou",
+				"D:\\Wabisabi\\Applications\\Wabi Coupon\\sublime\\Wabi Coupons.sublime-project"
+			],
+			[
+				"preve",
+				"D:\\Wabisabi\\Applications\\Preventivo online\\sublime\\Preventivo online.sublime-project"
+			],
+			[
+				"sciliar",
+				"D:\\Wabisabi\\Siti\\Hotel Sciliar\\2013\\desktop\\sublime\\Hotel Scillar 2013 - desktop.sublime-project"
+			],
+			[
+				"yui",
+				"D:\\Wabisabi\\Frameworks\\YUI\\YUI.sublime-project"
+			],
+			[
+				"clubfa",
+				"D:\\Wabisabi\\Siti\\Club Family Hotels\\Company site\\desktop\\2013\\sublime\\Club Family Hotels - Company site - 2013 - desktop.sublime-project"
+			],
+			[
+				"cortesie",
+				"D:\\Wabisabi\\Siti\\Le Cortesie\\2013\\desktop\\src\\Le Cortesie 2013 - desktop.sublime-project"
+			],
+			[
+				"a3",
+				"D:\\Wabisabi\\Siti\\A3\\2013\\desktop\\sublime\\A3 2013 - desktop.sublime-project"
+			],
+			[
+				"cogefa",
+				"D:\\Wabisabi\\Siti\\CoGeFa\\2013\\desktop\\sublime\\CoGeFa 2013 - desktop.sublime-project"
+			],
+			[
+				"azzurra",
+				"D:\\Wabisabi\\Siti\\Hotel Azzurra\\desktop\\2014\\sublime\\Hotel Azzurra 2014 - desktop.sublime-project"
+			],
+			[
+				"azzurr",
+				"D:\\Wabisabi\\Siti\\Hotel Azzurra\\desktop\\2014\\sublime\\Hotel Azzurra 2014 - desktop.sublime-project"
+			],
+			[
+				"villa ce",
+				"D:\\Wabisabi\\Siti\\Hotel Villa Celeste\\2013\\desktop\\sublime\\Hotel Villa Celeste 2013 - desktop.sublime-project"
+			],
+			[
+				"imperiale",
+				"D:\\Wabisabi\\Siti\\Hotel Imperiale\\2012\\sublime\\Hotel Imperiale 2012.sublime-project"
+			],
+			[
+				"hidalgo",
+				"D:\\Wabisabi\\Siti\\Hotel Hidalgo\\2013\\desktop\\sublime\\Hotel Hidalgo 2013 desktop.sublime-project"
+			],
+			[
+				"content",
+				"D:\\Wabisabi\\Modules\\Wabi Content Fader\\sublime\\Wabi Content Fader.sublime-project"
+			],
+			[
+				"isi social",
+				"D:\\Wabisabi\\Siti\\ISI\\Social\\2013\\sublime\\ISI Social 2013 - desktop.sublime-project"
+			],
+			[
+				"francesco",
+				"D:\\Wabisabi\\Siti\\Francesco Shop\\Scarpe 2013\\sublime\\Francesco Shop - Scarpe 2013.sublime-project"
+			],
+			[
+				"zaland",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"corte",
+				"D:\\Wabisabi\\Siti\\Le Cortesie\\2013\\desktop\\src\\Le Cortesie 2013 - desktop.sublime-project"
+			],
+			[
+				"dabuda",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Dabuda\\Dabuda.sublime-project"
+			],
+			[
+				"ohboid",
+				"C:\\Users\\Jose\\Dropbox\\Ohboid\\Ohboid website\\2013\\wp\\sublime\\Ohboid 2013 website.sublime-project"
+			],
+			[
+				"gigli",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"giglio",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"hotel gl",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"zalando",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"hotel gi",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"zala",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"cover",
+				"D:\\Wabisabi\\Applications\\installations\\cortesie2\\sublime\\cover.sublime-project"
+			],
+			[
+				"villace",
+				"D:\\Wabisabi\\Siti\\Hotel Villa Celeste\\2013\\desktop\\sublime\\Hotel Villa Celeste 2013 - desktop.sublime-project"
+			],
+			[
+				"z",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"za",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"gigil",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"vertica",
+				"D:\\Wabisabi\\Siti\\cms verticale\\sublime\\CMS Verticale 2013.sublime-project"
+			],
+			[
+				"ciao",
+				"D:\\Wabisabi\\Siti\\Ciao Hostel Firenze\\2012\\sublime\\Ciao Hostel Firenze 2012.sublime-project"
+			],
+			[
+				"hidal",
+				"D:\\Wabisabi\\Siti\\Hotel Hidalgo\\2013\\desktop\\sublime\\Hotel Hidalgo 2013 desktop.sublime-project"
+			],
+			[
+				"hidalg",
+				"D:\\Wabisabi\\Siti\\Hotel Hidalgo\\2013\\desktop\\sublime\\Hotel Hidalgo 2013 desktop.sublime-project"
+			],
+			[
+				"hotel giglio",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"jose cms",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\openshift\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"mokambo",
+				"/D/Wabisabi/Siti/Hotel Mokambo/2011/sublime/Hotel Mokambo 2011.sublime-project"
+			],
+			[
+				"matteo ",
+				"/C/Users/Jose/Dropbox/Jose/workshop/websites/Matteo Babbi/2013/sublime/Matteo Babbi 2013.sublime-project"
+			],
+			[
+				"prevent",
+				"/D/Wabisabi/Applications/Preventivo online/sublime/Preventivo online.sublime-project"
+			],
+			[
+				"facebo",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Family Hotel Cesenatico/2011/sublime/Family Hotel Cesenatico.sublime-project"
+			],
+			[
+				"preventivo on",
+				"/C/Users/Jose/Dropbox/Wabisabi/Applications/Preventivo online/sublime/Preventivo online.sublime-project"
+			],
+			[
+				"mokamb",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Hotel Mokambo/2011/sublime/Hotel Mokambo 2011.sublime-project"
+			],
+			[
+				"king marte",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Hotel King Marte/2012/sublime/Hotel King Marte 2012.sublime-project"
+			],
+			[
+				"matte",
+				"/C/Users/Jose/Dropbox/Jose/workshop/websites/Matteo Babbi/2013/sublime/Matteo Babbi 2013.sublime-project"
+			],
+			[
+				"ohbo",
+				"/C/Users/Jose/Dropbox/Ohboid/Ohboid website/2013/wp/sublime/Ohboid website 2013 wordpress.sublime-project"
+			],
+			[
+				"gigliola",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Hotel Gigliola/2013/desktop/sublime/Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"devon",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Hotel Devon/2013/desktop/sublime/Hotel Devon 2013 - desktop.sublime-project"
+			],
+			[
+				"preventi",
+				"/C/Users/Jose/Dropbox/Wabisabi/Applications/Preventivo online/sublime/Preventivo online.sublime-project"
+			],
+			[
+				"king ma",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Hotel King Marte/2012/sublime/Hotel King Marte 2012.sublime-project"
+			],
+			[
+				"recens",
+				"/C/Users/Jose/Dropbox/Wabisabi/Applications/Recensioni/sublime/Recensioni.sublime-project"
+			],
+			[
+				"prenev",
+				"/C/Users/Jose/Dropbox/Wabisabi/Applications/Preventivo online/sublime/Preventivo online.sublime-project"
+			],
+			[
+				"caos",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Caos Animazione/Company website/2013/desktop/sublime/Caos Animazione 2013 - desktop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 276.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
