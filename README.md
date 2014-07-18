@@ -51,3 +51,5 @@ my $handler = new ErrorHandler({
 
 $handler->fail('some error message');
 ```
+
+After the callback has been invoked, the `fail` function will handle the error normally.
