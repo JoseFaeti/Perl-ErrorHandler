@@ -7,6 +7,8 @@ It abstracts an error function so that errors can be handled the same way across
 ## Usage
 
 ```
+use ErrorHandler;
+
 my $handler = new ErrorHandler;
 $handler->fail('Error message');
 ```
@@ -14,6 +16,8 @@ $handler->fail('Error message');
 Settings can be specified during instantiation:
 
 ```
+use ErrorHandler;
+
 my $handler = new ErrorHandler({
   mode => 'print'
 });
