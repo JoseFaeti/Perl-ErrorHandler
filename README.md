@@ -1,6 +1,6 @@
 #ErrorHandler
 
-Simple module to uniform and ease the management of error calls across a perl program.
+Simple module to uniform and ease the management of error calls across a Perl program.
 
 It abstracts an error function so that errors can be handled the same way across all program.
 
