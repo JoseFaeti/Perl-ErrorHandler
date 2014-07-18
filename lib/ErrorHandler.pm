@@ -7,23 +7,38 @@ require Exporter;
     fail
 );
 
-my %settings = (
+my $settings = {
     # way to handle errors: die, print, throw (exception)
-    mode => 'die'
-);
+    mode => 'die',
+
+    # callback fired when fail sub is invoked
+    fail => undef
+};
 
 
 
 sub new
 {
-    print "hello there I'm an ErrorHandler!";
+    my ($class, $options) = @_;
+
+    my $self = {};
+
+    foreach my $name (keys %{$options})
+    {
+        $settings->{$name} = $options->{$name};
+    }
+
+    bless $self, $class;
+    return $self;
 }
 
 sub fail
 {
-    my ($message) = @_;
+    my ($self, $message) = @_;
 
-    my $mode = $settings{mode};
+    my $mode = $settings->{mode};
+
+    $settings->{fail}($message) if $settings->{fail};
 
     if ($mode eq 'die')
     {
@@ -37,16 +52,6 @@ sub fail
     {
         $@ = "$message\n";
         die;
-    }
-}
-
-sub set
-{
-    my ($settings) = @_;
-
-    foreach my $name (keys %{$settings})
-    {
-        $settings{$name} = $settings->{$name};
     }
 }
 
